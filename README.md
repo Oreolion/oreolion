@@ -7,7 +7,7 @@ I'm a Front-End Engineer, Content Creator and an Artist I'm passionate about lea
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm an Alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 💡 Fun fact: I'm an Alumnus at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 I’m Proficient in JavaScript, Reactjs, VueJs currently learning, typescript, NodeJs and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Developer, Front-End Engineer, Web Design or UI Engineer (Intern or Junior level).
