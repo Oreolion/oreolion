@@ -10,7 +10,7 @@ I'm a Full Stack Next or NuxtJs and LangChain Engineer, ML and AI Enthusiast, Co
 - 💡 Fun fact: I'm an Alumnus at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 I’m Proficient in JavaScript, Reactjs, VueJs, Typescript, Next, Nuxt, Git, LangChain currently learning, NodeJs and Python.
 - 😊 I’m looking for help with open source projects, hackathons, and entry-level opportunities.
-- 💼 Job interests: Software Developer, Front-End Engineer, Web Design or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Developer, Front-End Engineer, Web Design or UI Engineer, AI Powered Apps, AI Optimization expert (Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1qa6WeCdAef7EBy9UhTvCa_rDSP72SSLo2SBGOcabHHQ/edit?usp=sharing) and contact me by emailing remyoreo11@gmail.com.
 
 ---
