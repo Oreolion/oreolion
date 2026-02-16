@@ -6,7 +6,6 @@ I'm a Full Stack Next or NuxtJs, Blockchain and LangChain Engineer, ML and AI En
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an Alumnus at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 I’m Proficient in JavaScript, Reactjs, VueJs, Typescript, Next, Nuxt, Solidity, Git, LangChain currently learning AWS Cloud and DevOps, NodeJs and Python.
 - 💼 Job interests: Software Developer, Full-stack development, Front-End development, Blockchain or smart contract development, Web Design or UI Engineer, AI Powered Apps, and AI Optimization expert (Junior or intermediate level).
