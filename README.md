@@ -7,7 +7,7 @@ I'm a Full Stack Next.Js/Nuxt, Blockchain, AI Systems Engineer, ML and AI Enthus
 **Here's a quick summary about me**:
 
 - 💡 Fun fact: I'm an Alumnus at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m Proficient in JavaScript, Reactjs, VueJs, Typescript, python, NextJs, Nuxt.js, Solidity, Git, LangChain and LangGraph currently mastering AWS Cloud and Dev-Ops Engineering and AI Engineering.
+- 🌱 I’m Proficient in JavaScript, Reactjs, VueJs, Typescript, python, NextJs, Nuxt.js, Solidity, Git, LangChain and LangGraph. Currently mastering AWS Cloud Computing, Dev-Ops Engineering, Web3 and AI Engineering.
 - 💼 Job interests: Software Developer, Full-stack development, Front-End development, Blockchain or smart contract development, Web Design or UI Engineer, AI Powered Apps, AI Systems Engineering and AI Optimization expert (Junior or intermediate level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/1qa6WeCdAef7EBy9UhTvCa_rDSP72SSLo2SBGOcabHHQ/edit?usp=sharing) and contact me by emailing remyoreo11@gmail.com.
 
